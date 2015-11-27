@@ -1,0 +1,48 @@
+{
+  "name": "pic2nic-app-v2-nic",
+  "version": "1.0.0",
+  "description": "Ionic V2 App Test",
+  "main": "ionic.config.js",
+  "dependencies": {
+    "ionic-framework": "2.0.0-alpha.37",
+    "moment": "^2.10.6"
+  },
+  "devDependencies": {
+    "autoprefixer-loader": "^3.1.0",
+    "awesome-typescript-loader": "0.12.0-rc.2",
+    "css-loader": "^0.22.0",
+    "file-loader": "^0.8.4",
+    "node-sass": "^3.4.2",
+    "sass-loader": "^3.1.1",
+    "style-loader": "^0.13.0",
+    "typescript": "1.5.3",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.12.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chirilo/pic2nic-app-v2-nic.git"
+  },
+  "keywords": [
+    "ionicv2",
+    "test",
+    "app",
+    "pic2nic",
+    "iamchiriru"
+  ],
+  "author": "iamchiriru",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chirilo/pic2nic-app-v2-nic/issues"
+  },
+  "homepage": "https://github.com/chirilo/pic2nic-app-v2-nic#readme",
+  "cordovaPlugins": [
+    "cordova-plugin-whitelist"
+  ],
+  "cordovaPlatforms": [
+    "android"
+  ]
+}
